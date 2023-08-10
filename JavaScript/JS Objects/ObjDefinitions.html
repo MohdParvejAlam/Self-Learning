@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Variables</h2>
+
+<p id="demo"></p>
+
+<script>
+// Create and display a variable:
+//let person = "John Doe";
+//creating a object
+const person = {
+  firstName:"John",
+  lastName:"Doe",
+  age:50, eyeColor:"blue"
+}
+
+const x = person;
+x.age = 10; 
+//both x and person are same any changes in x same as person
+document.getElementById("demo").innerHTML = person.firstName+" "+person.lastName+" "+"age is "+person.age;
+</script>
+
+</body>
+</html>

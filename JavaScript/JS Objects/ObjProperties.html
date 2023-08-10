@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h2>JavaScript Object Properties</h2>
+    <p>Access a property with ["property"]:</p>
+
+    <p id="demo"></p>
+
+    <script>
+        const person = {
+            firstname: "John",
+            lastname: "Doe",
+            age: 50,
+            eyecolor: "blue"
+        };
+        //delete a property
+        // delete person.eyecolor;
+        // let txt = "";
+        // for (let x in person) {
+        //     txt += person[x] + " ";
+        // }
+        // document.getElementById("demo").innerHTML = txt;
+
+        //nested objects
+        myObj = {
+            name: "John",
+            age: 30,
+            cars: {
+                car1: "Ford",
+                car2: "BMW",
+                car3: "Fiat"
+            }
+        };
+        document.getElementById("demo").innerHTML = myObj.cars["car1"];
+    </script>
+
+</body>
+
+</html>
