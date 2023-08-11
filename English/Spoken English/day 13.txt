@@ -1,0 +1,99 @@
+1)Pisa hua
+Grind-Ground-Ground
+
+2)Toota hua
+Break-Broke-Broken
+
+3)Fata hua
+Tear-Toer-Torn
+
+4)Badha hua
+tie-Tied-Tied
+
+5)Muda hua
+Bend-Bent-Bent
+
+6)Dara hua
+Scare-Scared-Scared
+
+7)Rakha Hua 
+Keep-Keot-Kept
+
+8)Chipa hua
+Hide-Hid-Hidden
+
+9)Ruka hua 
+Stop-Stopped-Stopped
+
+10)Tanga hua
+Hang-Hung-Hung
+
+11)Thaka hua
+Tier-tiered-tiered
+
+12)Pita hua
+Beat-Beat-Beaten
+
+13)Thopa hua
+Impose-Imposed-Imposed
+
+14)Bikhra hua(pani ke liye bikra hua === spill  )
+scatter-scattered-scattered
+
+15)Loota hua
+Loot-Looted-Looted
+
+16)Churaya hua
+steal-stole-stolen
+
+17)Chhua hua
+touch-touched-touched
+
+18)Sooja hua 
+Swell-Swelled-Swelled
+
+19)Khoya hua 
+Lose-lost-lost
+
+20)Feka hua
+Throw-Threw-thrown
+
+21)Bika hua
+sell-sold-sold
+
+22)Likha hua
+write-wrote-written'
+
+23)Piya hua
+drink-brank-drunk
+
+24)Chipka hua
+stick-stuck-stuck
+
+25)Atka hua
+Stick-stuck-stuck
+
+26)Fansa Hua
+trap-trapped-trapped
+
+27)Bhuna hua
+Roast-Roasted-Roasted
+
+28)Dhula hua
+Wash-washed-washed
+
+29)Leta hua(Pada hua)
+Lie-lay- (x)lain(Lying)
+
+30)Bicha hua
+lay-laid-laid
+
+
+He is setting.
+He is standing.
+He is wearing a tshirt.
+Shop is open.
+Shop is closed.
+This person is dead.
+He is asleep.
+He is awake.
