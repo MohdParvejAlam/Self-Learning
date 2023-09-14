@@ -3,6 +3,7 @@
     "liveServer.settings.port": 5502,
     "cmake.configureOnOpen": false,
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "forward_list": "cpp"
     }
 }
